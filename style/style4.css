@@ -136,7 +136,7 @@ th, td{
 
 }
 th{
-    background-color: darkblue;
+    background-color:darkblue;
     color: #fff;
 }
 .imgtd{
@@ -147,6 +147,12 @@ th{
 }
 td{
     color:  cornflowerblue;
+}
+button{
+    background-color:darkblue ;
+    padding: 20px;
+    color: #fff;
+    
 }
 
 .apro{
