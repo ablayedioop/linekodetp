@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    display: flex;
+   justify-content: space-between;
+   border-style: ridge ;
+   margin: 10px;
+}
+#h2{
+    color: cornflowerblue;
+    padding-left: 15px;
+    margin-top: 10px;
+    font-family: 'teko',sans-serif;
+}
+span{
+    color: black;
+}
+nav{
+    display: flex;
+    list-style-type: none;
+    float: right;
+    margin: 15px;
+   
+}
+li a{
+    text-decoration:none ;
+    margin: 10px;
+    color: cornflowerblue;
+    font-size: 22px;
+    font-family: 'teko',sans-serif;
+    font-weight: 700;
+}
+section{
+    background-color: ghostwhite;
+    width: 65vw;
+   margin-left: 15%;
+   padding: 2%;
+
+}
+.luxe{
+  
+    border-style: ridge;
+   padding-top: 2%;
+    margin: 3px;
+    width: 55vw;
+    margin-left: 5%;
+    border-radius: 10px;
+}
+.hi{
+    margin-left: 5%;
+    color: cornflowerblue;
+}
+.maison{
+    margin-left: 3%;
+}
+.h2i{
+    text-align: center;
+    color:  rgb(17, 69, 164);
+}
+p{
+    color:  cornflowerblue;
+    text-align: center;
+}
+.salon{
+    border-style: ridge;
+    width: 55vw;
+    margin-left: 5%;
+    border-radius: 10px;
+   
+    
+
+}
+.table{
+   width: 53vw;
+    margin-top: 3%;
+    height: 59vh;
+    margin-left: 11px;
+  
+}
+
+   .sc {
+ 
+    border-style: ridge;
+    width: 50vw;
+    height: 52vh;
+    margin-left: 25%;
+    margin-top: 4%;
+   border-radius: 10px;
+   
+    
+}
+.hc{
+    margin-left: 5%;
+    font-size: 30px;
+ 
+}
+.pc{
+    margin-left: 5%;
+    color: cornflowerblue;
+}
+form{
+    margin-left: 5%;
+}
+label{
+    color: cornflowerblue;
+}
+input{
+  padding: 5px 215px;
+   
+}
+.mc{
+    padding: 25px 215px;
+}
+#bc{
+   padding: 5px 275px;
+   color: #fff;
+  background-color: darkblue;
+  border: none;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+    margin: 20px;
+   margin-left: 9%;
+}
+th, td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+   
+
+}
+th{
+    background-color: darkblue;
+    color: #fff;
+}
+.imgtd{
+    width: 30vw;
+}
+.imtd{
+    width: 30vw;
+}
+td{
+    color:  cornflowerblue;
+}
+
+.apro{
+    margin-top: 7%;
+    }
+    .hp{
+        margin-left: 9%;
+    }
+footer{
+    text-align: center;
+    margin: 80px;
+    color: cornflowerblue;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+   
+
